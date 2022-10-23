@@ -1,0 +1,32 @@
+.cart{
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+  box-sizing: border-box;
+  margin: 15px 0px;
+  height: 119px;
+  background: #FFFFFF;
+  border: 1px solid #F3F3F3;
+  border-radius: 20px;
+  padding: 0 20px;
+  overflow:hidden;
+  
+  p{
+    margin-bottom: 5px;
+  }
+    img{
+  cursor: pointer;
+      margin-right: 1rem;
+    }
+    .img__cart{
+      display: flex;
+      align-items: center;
+  margin: 0 0.5rem;
+    }
+    
+  }
+  
+
+
+
+

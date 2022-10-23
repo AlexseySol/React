@@ -1,0 +1,36 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid  #EAEAEA;
+    height: 128px;
+    text-decoration: none;
+  }
+  .headerLeft{
+    display: flex;
+    align-items: center;
+ 
+
+  }
+  ul{
+    margin-left: 0.5rem;
+
+  }
+ 
+  
+  .headerRight{
+    display: flex;
+    align-items: center;
+  
+    li{
+      margin: 0 1rem; 
+    align-items: center;
+    display: flex;
+    span{
+      margin-left: 0.5rem;
+    }
+    }
+  }
+  .click{
+    cursor: pointer;
+  }
+  
