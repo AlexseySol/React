@@ -52,7 +52,7 @@ const Card = ({
           <div className={c.card__text}>{text}</div>
           <div className={c.card__item}>
             <div className={c.card__item__bye}>
-              <span>ЦенА:</span>
+              <span>Цена:</span>
               <b>{price} грн.</b>
             </div>
 
